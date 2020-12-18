@@ -1,5 +1,5 @@
 {
-    "name": "inkvizytor/laravel-przelewy24",
+    "name": "adrian1207/laravel-przelewy24",
     "description": "Laravel przelewy24.pl integration",
     "type": "library",
     "require": {
